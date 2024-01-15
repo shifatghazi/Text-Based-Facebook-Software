@@ -1,7 +1,6 @@
 /********* a1_data_structures.h ********
 	
 	Student Name 	= Shifat Ghazi
-	Student Number	= 101265285
 */
 
 /********** DON'T MODIFY **********/
