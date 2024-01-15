@@ -1,7 +1,6 @@
 /********* definitions.c ********
 	
 	Student Name 	= Shifat Ghazi
-	Student Number	= 101265285
 */
 
 #include "a1_functions.h"
