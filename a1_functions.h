@@ -1,7 +1,6 @@
 /********* a1_functions.h ********
 	
 	Student Name 	= Shifat Ghazi
-	Student Number	= 101265285
 */
 
 #include "a1_data_structures.h"
